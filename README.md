@@ -3,6 +3,21 @@
 # Introduction
 Welcome to the implementation of the research paper titled "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network." This repository contains the code and resources necessary to reproduce the findings and techniques presented in the paper.
 
+Ashish Rathore:
+
+Implemented the core GAN architecture described in the research paper.
+Designed and conducted experiments for hyperparameter tuning.
+Created the data preprocessing pipeline.
+Authored Jupyter notebooks with step-by-step instructions.
+Assisted with result analysis and evaluation.
+Nishant:
+
+Contributed to the theoretical framework of the project.
+Conducted in-depth literature review and research on image super-resolution techniques.
+Proposed improvements to loss functions and training strategies based on theoretical insights.
+Collaborated on the project's overall design and architecture.
+This updated contribution section acknowledges Nishant's theoretical contributions to the project, while highlighting your practical implementation efforts.
+
 # Research Paper Abstract
 The research paper introduces a state-of-the-art approach to single image super-resolution using a Generative Adversarial Network (GAN). The proposed model leverages the power of deep learning to generate high-resolution images from low-resolution inputs while preserving fine details and producing visually realistic results. The paper presents a comprehensive analysis of the network architecture, loss functions, and training strategies employed to achieve remarkable advancements in the field of image super-resolution.
 
